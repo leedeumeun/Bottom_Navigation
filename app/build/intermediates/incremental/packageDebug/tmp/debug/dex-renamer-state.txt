@@ -1,4 +1,0 @@
-#Wed Jul 08 10:38:20 KST 2020
-base.0=F\:\\Android Study\\Bottomnavigation\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
